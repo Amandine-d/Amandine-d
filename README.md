@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Amandine-d/<OWNER>/<OWNER>/night_sky.jpeg "Header")])
+![](https://github.com/Amandine-d/Amandine-d/night-_sky.jpeg)
 
 
 ### Hi there 👋
