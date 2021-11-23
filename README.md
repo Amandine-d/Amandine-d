@@ -1,4 +1,4 @@
-![](https://github.com/Amandine-d/Amandine-d/night-_sky.jpeg)
+
 
 
 ### Hi there 👋
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<!-- [![Amandine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amandine-d)](https://github.com/Amandine-d/github-readme-stats) --
 
 
 
