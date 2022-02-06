@@ -47,6 +47,14 @@ Here are some ideas to get you started:
 <a href="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" >
 <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="40" /></a>
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Amandine-d&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amandine-d&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandine-d&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </div>
 
 
